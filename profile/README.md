@@ -14,9 +14,6 @@ invoJoe ist eine Offline-Anwendung für deutsche Einzelunternehmer. Sie bündelt
 **Für Windows 10 (22H2) oder neuer, 64-Bit.** Die EÜR ist eine vorläufige Übersicht und ersetzt weder Steuerberatung noch eine Steuererklärung. invoJoe übermittelt keine Steuerdaten und erstellt derzeit keine strukturierten E-Rechnungen wie XRechnung oder ZUGFeRD.
 
 ---
-
-## English
-
 **Invoices, expenses and a clearer overview — right on your Windows PC.**
 
 invoJoe is an offline desktop app for sole proprietors in Germany. It brings customers, invoices, expenses, fixed assets and a preliminary EÜR overview together in one straightforward workflow—from your first customer record to a finished PDF.
